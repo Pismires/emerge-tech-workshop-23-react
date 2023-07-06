@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Exercise 01</title>
+    <style>
+        body {
+          background-color: #212121;
+          color: #AFAFAF;
+        }
+      </style>
+</head>
+
+<body>
+    <!-- navigation -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+        </ul>
+    </nav>
+
+    <!-- entry point -->
+    <div id="root"></div>
+
+    <script>
+        var content = {
+            home: `
+                <h1>Welcome to the Home Page</h1>
+                <p>This is the home page content.</p>
+            `,
+            about: `
+                <h1>About Us</h1>
+                <p>This is the about page content.</p>
+            `,
+        };
+
+        function handleHashChange() {
+            var pageId = location.hash.slice(1); // Remove the '#' from the hash
+            document.getElementById('root').innerHTML = content[pageId] ?? content.home;
+        }
+
+        window.addEventListener('hashchange', handleHashChange);
+
+        // Initial page load
+        handleHashChange();
+    </script>
+</body>
+
+</html>
