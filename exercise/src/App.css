@@ -3,3 +3,50 @@ body {
   color: #AFAFAF;
   text-align: center;
 }
+
+
+.nav {
+  padding: 10px 0px;
+  width: 100%;
+  background-color: #AFAFAF;
+  color: #212121;
+}
+
+.link {
+  margin: 0px 10px;
+}
+
+.component-body {
+  padding: 36px;
+}
+
+.todo-text-input-div {
+}
+
+.todo-text-input {
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+.todo-text-input-button {
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-left: 20px;
+}
+
+.todo-list {
+  position: relative;
+  list-style-type: none;
+  padding: 0px;
+}
+
+.todo-list-item {
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+.todo-list-item-button {
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-left: 20px;
+}
