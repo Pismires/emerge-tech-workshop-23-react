@@ -1,7 +1,8 @@
 const Exercise02 = () => {
     return (
         <div className="component-body">
-            <h2>Break a separate branch and try it yourself</h2>
+            <h2>Exercise 02</h2>
+            <p>Implement a Todo App using a state array.</p>
         </div>
     );
 }
