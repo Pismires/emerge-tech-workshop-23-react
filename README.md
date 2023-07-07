@@ -23,4 +23,4 @@ Download this repo and install the packages
 
 https://app.sli.do/event/oJrxU1h9VT7NFKNzQQ8kxG
 
-![image](https://github.com/emerge-tech-workshop/23-react/assets/26875754/6c6ec741-e6af-4e39-b42b-9f2572870ee5)
+![image](https://github.com/emerge-tech-workshop/23-react/assets/26875754/7e4c25ac-9afd-48ab-b90b-6c1cbfa40e48)
