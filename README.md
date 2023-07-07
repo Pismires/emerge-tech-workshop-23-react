@@ -10,7 +10,7 @@ Install the following tools on your machine.
 
 Download this repo and install the packages
 
-1 - `git clone git@github.com:Pismires/emerge-tech-workshop-23-react.git`
+1 - `git clone https://github.com/emerge-tech-workshop/23-react.git`
 
 2 - `cd .\emerge-tech-workshop-23-react\exercise\`
 
