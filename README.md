@@ -17,3 +17,8 @@ Download this repo and install the packages
 3 - `npm install`
 
 4 - `npm start` (check if the app is running smoothly without any errors)
+
+
+# Get in touch with us
+
+![image](https://github.com/emerge-tech-workshop/23-react/assets/26875754/6c6ec741-e6af-4e39-b42b-9f2572870ee5)
